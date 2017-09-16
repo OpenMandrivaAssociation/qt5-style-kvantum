@@ -36,6 +36,6 @@ pushd Kvantum
 %{_datadir}/Kvantum
 %{_datadir}/applications/kvantummanager.desktop
 %{_datadir}/color-schemes
-%{_kde4_appsdir}/color-schemes
+%{_datadir}/kde4/apps/color-schemes
 %{_iconsdir}/hicolor/scalable/apps/kvantum.svg
 %{_datadir}/themes
