@@ -1,5 +1,5 @@
 Name:           qt5-style-kvantum
-Version:        0.10.4
+Version:        0.10.5
 Release:        1
 License:        GPLv3+
 Summary:        SVG-based Qt5 theme engine plus a config tool and extra themes
@@ -34,6 +34,8 @@ pushd Kvantum
 %{_bindir}/kvantumpreview
 %{_qt5_plugindir}/styles/libkvantum.so
 %{_datadir}/Kvantum
+%{_datadir}/kvantummanager/translations/
+%{_datadir}/kvantumpreview/translations/
 %{_datadir}/applications/kvantummanager.desktop
 %{_datadir}/color-schemes
 %{_datadir}/kde4/apps/color-schemes
