@@ -34,8 +34,6 @@ pushd Kvantum
 %{_bindir}/kvantumpreview
 %{_qt5_plugindir}/styles/libkvantum.so
 %{_datadir}/Kvantum
-%{_datadir}/kvantummanager/translations/
-%{_datadir}/kvantumpreview/translations/
 %{_datadir}/applications/kvantummanager.desktop
 %{_datadir}/color-schemes
 %{_datadir}/kde4/apps/color-schemes
