@@ -43,3 +43,6 @@ cd %{oname}
 %{_datadir}/kde4/apps/color-schemes
 %{_iconsdir}/hicolor/scalable/apps/kvantum.svg
 %{_datadir}/themes
+%lang(eo) %{_datadir}/kvantummanager/translations/kvantummanager_eo.qm
+%lang(pl) %{_datadir}/kvantummanager/translations/kvantummanager_pl.qm
+%lang(eo) %{_datadir}/kvantumpreview/translations/kvantumpreview_eo.qm
