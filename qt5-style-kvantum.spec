@@ -9,6 +9,7 @@ Group:          System/Libraries
 URL:            https://github.com/tsujan/Kvantum
 Source0:        https://github.com/tsujan/Kvantum/archive/%{oname}-%{version}.tar.gz
 BuildRequires:	cmake
+BuildRequires:	qmake5
 BuildRequires:	cmake(Qt5LinguistTools)
 BuildRequires:	pkgconfig(Qt5Core)
 BuildRequires:	pkgconfig(Qt5Gui)
