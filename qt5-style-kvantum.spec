@@ -1,7 +1,7 @@
 %define oname Kvantum
 
 Name:           qt5-style-kvantum
-Version:        0.10.5
+Version:        0.10.6
 Release:        1
 License:        GPLv3+
 Summary:        SVG-based Qt5 theme engine plus a config tool and extra themes
