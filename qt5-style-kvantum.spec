@@ -53,4 +53,4 @@ cd %{oname}
 %lang(cy) %{_datadir}/kvantumpreview/translations/kvantumpreview_cy.qm
 %lang(de) %{_datadir}/kvantumpreview/translations/kvantumpreview_de.qm
 %lang(es) %{_datadir}/kvantumpreview/translations/kvantumpreview_es.qm
-%lang(lt) %{_datadir}/kvantumpreview/translations/kvantumpreview_lt.q
+%lang(lt) %{_datadir}/kvantumpreview/translations/kvantumpreview_lt.qm
