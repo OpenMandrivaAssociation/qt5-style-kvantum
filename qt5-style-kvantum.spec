@@ -1,7 +1,7 @@
 %define oname Kvantum
 
 Name:           qt5-style-kvantum
-Version:        0.10.5
+Version:        0.10.8
 Release:        1
 License:        GPLv3+
 Summary:        SVG-based Qt5 theme engine plus a config tool and extra themes
@@ -43,6 +43,14 @@ cd %{oname}
 %{_datadir}/kde4/apps/color-schemes
 %{_iconsdir}/hicolor/scalable/apps/kvantum.svg
 %{_datadir}/themes
+%lang(cy) %{_datadir}/kvantummanager/translations/kvantummanager_cy.qm
+%lang(de) %{_datadir}/kvantummanager/translations/kvantummanager_de.qm
 %lang(eo) %{_datadir}/kvantummanager/translations/kvantummanager_eo.qm
+%lang(es) %{_datadir}/kvantummanager/translations/kvantummanager_es.qm
+%lang(lt) %{_datadir}/kvantummanager/translations/kvantummanager_lt.qm
 %lang(pl) %{_datadir}/kvantummanager/translations/kvantummanager_pl.qm
 %lang(eo) %{_datadir}/kvantumpreview/translations/kvantumpreview_eo.qm
+%lang(cy) %{_datadir}/kvantumpreview/translations/kvantumpreview_cy.qm
+%lang(de) %{_datadir}/kvantumpreview/translations/kvantumpreview_de.qm
+%lang(es) %{_datadir}/kvantumpreview/translations/kvantumpreview_es.qm
+%lang(lt) %{_datadir}/kvantumpreview/translations/kvantumpreview_lt.qm
