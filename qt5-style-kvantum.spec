@@ -1,7 +1,7 @@
 %define oname Kvantum
 
 Name:           qt5-style-kvantum
-Version:        0.10.8
+Version:        0.10.9
 Release:        1
 License:        GPLv3+
 Summary:        SVG-based Qt5 theme engine plus a config tool and extra themes
@@ -47,10 +47,16 @@ cd %{oname}
 %lang(de) %{_datadir}/kvantummanager/translations/kvantummanager_de.qm
 %lang(eo) %{_datadir}/kvantummanager/translations/kvantummanager_eo.qm
 %lang(es) %{_datadir}/kvantummanager/translations/kvantummanager_es.qm
+%lang(et) %{_datadir}/kvantummanager/translations/kvantummanager_et.qm
+%lang(id) %{_datadir}/kvantummanager/translations/kvantummanager_id.qm
 %lang(lt) %{_datadir}/kvantummanager/translations/kvantummanager_lt.qm
+%lang(nl) %{_datadir}/kvantummanager/translations/kvantummanager_nl.qm
 %lang(pl) %{_datadir}/kvantummanager/translations/kvantummanager_pl.qm
+%lang(pt_BR) %{_datadir}/kvantummanager/translations/kvantummanager_pt_BR.qm
 %lang(eo) %{_datadir}/kvantumpreview/translations/kvantumpreview_eo.qm
 %lang(cy) %{_datadir}/kvantumpreview/translations/kvantumpreview_cy.qm
 %lang(de) %{_datadir}/kvantumpreview/translations/kvantumpreview_de.qm
 %lang(es) %{_datadir}/kvantumpreview/translations/kvantumpreview_es.qm
 %lang(lt) %{_datadir}/kvantumpreview/translations/kvantumpreview_lt.qm
+%lang(nl) %{_datadir}/kvantumpreview/translations/kvantumpreview_nl.qm
+%lang(pt_BR) %{_datadir}/kvantumpreview/translations/kvantumpreview_pt_BR.qm
