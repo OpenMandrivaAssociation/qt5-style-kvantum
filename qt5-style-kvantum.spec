@@ -11,6 +11,7 @@ Source0:        https://github.com/tsujan/Kvantum/archive/%{oname}-%{version}.ta
 BuildRequires:	cmake
 BuildRequires:	qmake5
 BuildRequires:	cmake(Qt5LinguistTools)
+BuildRequires:	cmake(KF5WindowSystem)
 BuildRequires:	pkgconfig(Qt5Core)
 BuildRequires:	pkgconfig(Qt5Gui)
 BuildRequires:	pkgconfig(Qt5Widgets)
