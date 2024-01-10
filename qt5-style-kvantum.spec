@@ -2,7 +2,7 @@
 
 Name:           qt5-style-kvantum
 Version:        0.10.9
-Release:        3
+Release:        4
 License:        GPLv3+
 Summary:        SVG-based Qt5 theme engine plus a config tool and extra themes
 Group:          System/Libraries
